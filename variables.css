@@ -1,0 +1,32 @@
+:root {
+    /* Primary colors */
+    --clr-pr: hsl(158, 36%, 37%);
+    --clr-snd: hsl(30, 38%, 92%);
+
+    /* Neutral colors */
+    --clr-nt-dark: hsl(212, 21%, 14%);
+    --clr-nt-grey: hsl(228, 12%, 48%);
+    --clr-nt-white: hsl(0, 0%, 100%);
+
+    /* Font */
+    --ff-primary: 'Monserrat', sans-serif;
+    --ff-primary: 'Fraunces', sans-serif;
+
+    /* Font size */
+    --fs-0: 0.813rem;
+    --fs-1: 1,938px;
+    --fs-btn: 0.875rem;
+    --fs-p: 0.875rem;
+
+    /* Spacing */
+    --sp-0: 20.625rem ;
+    --sp-1: -0.75rem
+
+    /* Font weight */
+    --fw-500: 500;
+    --fw-700: 700;
+
+    /* Border radius */
+    --br: 0.625rem;
+}
+
