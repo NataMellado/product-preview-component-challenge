@@ -2,6 +2,7 @@
     /* Primary colors */
     --clr-pr: hsl(158, 36%, 37%);
     --clr-snd: hsl(30, 38%, 92%);
+    --clr-btn-hover: hsl(158, 36%, 25%);
 
     /* Neutral colors */
     --clr-nt-dark: hsl(212, 21%, 14%);
@@ -9,18 +10,18 @@
     --clr-nt-white: hsl(0, 0%, 100%);
 
     /* Font */
-    --ff-primary: 'Monserrat', sans-serif;
     --ff-primary: 'Fraunces', sans-serif;
+    --ff-secondary: 'Montserrat', sans-serif;
 
     /* Font size */
     --fs-0: 0.813rem;
-    --fs-1: 1,938px;
+    --fs-1: 2rem;
     --fs-btn: 0.875rem;
     --fs-p: 0.875rem;
 
     /* Spacing */
-    --sp-0: 20.625rem ;
-    --sp-1: -0.75rem
+    --sp-0: 0.33em ;
+    --sp-1: -0.012em
 
     /* Font weight */
     --fw-500: 500;
